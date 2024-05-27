@@ -1,0 +1,12 @@
+The input parameters and key results are written in this file.
+
+Input parameters:
+Insulator thickness=  2.00e-08 m
+NanoTube Diameter=  1.20e-09 m
+Insulator relative dielectric constant=  25.00 
+Temperature=  300.00 K
+
+Initial source Fermi Level=  -3.200 eV
+Gate control parameter=  1.137
+Drain control parameter=  0.040
+Voltage Loop (fo both Vgs and Vds):
